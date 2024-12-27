@@ -1,0 +1,14 @@
+===REPORTE DE ANÁLISIS DE TEXTO ===
+
+Archivo analizado: texto.txt
+Total de caracteres: 853
+Total de palabras: 129
+Longitud promedio de palabras: 5.6
+Palabra más larga: protagonista,
+
+Top 5 palabras más frecuentes:
+- 'de': 10 veces
+- 'la': 8 veces
+- 'y': 5 veces
+- 'el': 4 veces
+- 'quijote': 4 veces
